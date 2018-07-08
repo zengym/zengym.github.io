@@ -1,7 +1,7 @@
 ---
 title: 使用vagrant搭建hadoop环境
 date: 2018-07-06 16:22:32
-tags:
+tags: hadoop
 ---
 # 环境准备
 1. 下载vagrant和virtualbox，并安装
@@ -10,7 +10,7 @@ tags:
 2. 虚拟机配置
 - 1台master: memory 2048m 硬盘20G
 - 2台slave: memory 1024m 硬盘10G
-
+<!--more-->
 # 安装步骤
 
 从官网下载centos镜像：
